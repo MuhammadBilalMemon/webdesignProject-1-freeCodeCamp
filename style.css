@@ -1,0 +1,67 @@
+body {
+    font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+    font-size: 1.6rem;
+    text-align: center;
+    color: #333;
+    margin: 0;
+}
+
+#main {
+    margin: 25px 10px;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #EEEEEE;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 0;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+#img-div {
+    background: #ffffff;
+    padding: 10px;
+    margin: 0;
+}
+
+img {
+    max-width: 100%;
+}
+
+#img-caption {
+    margin: 15px 0 5px 0;
+}
+
+#tribute-heading {
+    margin: 80px 0;
+}
+
+ul {
+    font-size: 1.0rem;
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+li {
+    margin: 10px 0;
+}
+
+blockquote {
+    font-style: italic;
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+}
+
+a {
+    color: #477CA7;
+}
+
+a:visited {
+    color: #74638f;
+}
